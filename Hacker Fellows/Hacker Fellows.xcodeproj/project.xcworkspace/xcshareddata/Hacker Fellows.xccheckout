@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A6FAF6A7-B3E7-4668-A4AE-7A2C780AAFB8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>788C19BC4F5D1C9E28503878C3C645A370FCD2AD</key>
+		<string>https://github.com/JakielaAdam/HackerFellowsIOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Hacker Fellows/Hacker Fellows.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>788C19BC4F5D1C9E28503878C3C645A370FCD2AD</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JakielaAdam/HackerFellowsIOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>788C19BC4F5D1C9E28503878C3C645A370FCD2AD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>788C19BC4F5D1C9E28503878C3C645A370FCD2AD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HackerFellowsIOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
