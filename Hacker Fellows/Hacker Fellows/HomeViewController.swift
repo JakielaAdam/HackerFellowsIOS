@@ -1,5 +1,5 @@
 //
-//  SecondViewController.swift
+//  HomeViewController.swift
 //  Hacker Fellows
 //
 //  Created by Hacker Fellows on 7/28/15.
@@ -8,11 +8,16 @@
 
 import UIKit
 
-class SecondViewController: UIViewController {
+class HomeViewController: UIViewController {
 
+    @IBOutlet weak var webView: UIWebView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        let url = NSURL(string: "http://www.hackerfellows.com/")
+        let request = NSURLRequest(URL: url!)
+        webView.loadRequest(request)
     }
 
     override func didReceiveMemoryWarning() {
