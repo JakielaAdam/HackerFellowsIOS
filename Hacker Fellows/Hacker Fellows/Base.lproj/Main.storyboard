@@ -69,7 +69,7 @@
         <scene sceneID="WBG-uK-YmI">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="sHg-eP-Cvq" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="About" image="first" id="acW-dT-cKf"/>
+                    <tabBarItem key="tabBarItem" title="About" image="Home-50" id="acW-dT-cKf"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="u7Y-6c-U3o">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
@@ -110,11 +110,11 @@
             </objects>
             <point key="canvasLocation" x="1666.5" y="348"/>
         </scene>
-        <!--Item-->
+        <!--Fellows-->
         <scene sceneID="V2U-KZ-ere">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="dNh-z1-EzG" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Item" id="NIU-55-M1H"/>
+                    <tabBarItem key="tabBarItem" title="Fellows" image="Contacts-50" id="NIU-55-M1H"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="8NQ-pw-8Be">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
@@ -155,11 +155,11 @@
             </objects>
             <point key="canvasLocation" x="1659" y="1025"/>
         </scene>
-        <!--Item-->
+        <!--Companies-->
         <scene sceneID="QRf-2c-Rgf">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="gkT-dc-gP9" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Item" id="pRB-0m-jTD"/>
+                    <tabBarItem key="tabBarItem" title="Companies" image="Department-50" id="pRB-0m-jTD"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="L84-Ql-B2d">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
@@ -176,6 +176,8 @@
         </scene>
     </scenes>
     <resources>
-        <image name="first" width="30" height="30"/>
+        <image name="Contacts-50" width="25" height="25"/>
+        <image name="Department-50" width="25" height="25"/>
+        <image name="Home-50" width="25" height="25"/>
     </resources>
 </document>
